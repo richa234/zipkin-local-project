@@ -1,0 +1,5 @@
+com\zipkin\payment\api\repository\PaymentRepository.class
+com\zipkin\payment\api\controller\PaymentController.class
+com\zipkin\payment\api\entity\Payment.class
+com\zipkin\payment\api\PaymentServiceMsV1Application.class
+com\zipkin\payment\api\service\PaymentService.class
